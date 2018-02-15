@@ -60,9 +60,9 @@ for more click [here](https://www.guru99.com/what-is-big-data.html) [read] or [h
 
 #### HDFS:
 [ <br />
-&nbsp;@ takes care of storage part of Hadoop applications <br />
-&nbsp;@ creates multiple replicas of data blocks and distributes them on compute nodes in cluster <br />
-&nbsp;@ MapReduce applications consume data from HDFS <br />
+&nbsp;\> takes care of storage part of Hadoop applications <br />
+&nbsp;\> creates multiple replicas of data blocks and distributes them on compute nodes in cluster <br />
+&nbsp;\> MapReduce applications consume data from HDFS <br />
 ]
 
 #### References:
