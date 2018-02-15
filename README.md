@@ -53,9 +53,9 @@ for more click [here](https://www.guru99.com/what-is-big-data.html) [read] or [h
 
 #### MapReduce:
 [ <br />
-&nbsp;@ a computational model and software framework for writing applications which run on Hadoop <br />
-&nbsp;@ divides the task into small parts and assigns those parts to many computers connected over the network, and collects the results to the final result dataset <br />
-&nbsp;@  <br />
+&nbsp;\> a computational model and software framework for writing applications which run on Hadoop <br />
+&nbsp;\> divides the task into small parts and assigns those parts to many computers connected over the network, and collects the results to the final result dataset <br />
+&nbsp;\>  <br />
 ]
 
 #### HDFS:
