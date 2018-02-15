@@ -66,8 +66,8 @@ for more click [here](https://www.guru99.com/what-is-big-data.html) [read] or [h
 ]
 
 #### References:
-/> [https://www.tutorialspoint.com/hadoop/index.htm](https://www.tutorialspoint.com/hadoop/index.htm )
-/> [https://www.guru99.com/bigdata-tutorials.html](https://www.guru99.com/bigdata-tutorials.html)
+\> [https://www.tutorialspoint.com/hadoop/index.htm](https://www.tutorialspoint.com/hadoop/index.htm ) <br />
+\> [https://www.guru99.com/bigdata-tutorials.html](https://www.guru99.com/bigdata-tutorials.html) <br />
 
 ### License
 
