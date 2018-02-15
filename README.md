@@ -33,14 +33,22 @@ for more click [here](https://www.guru99.com/what-is-big-data.html) [read] or [h
 
 #### Big Data challenges:
 [ <br />
-*Capturing data
-*Curation
-*Storage
-*Searching
-*Sharing
-*Transfer
-*Analysis
+*Capturing data <br />
+*Curation <br />
+*Storage <br />
+*Searching <br />
+*Sharing <br />
+*Transfer <br />
+*Analysis <br />
 *Presentation <br />
+]
+
+#### Hadoop Architecture:
+[ <br />
+&nbsp;@ Hadoop Common <br />
+&nbsp;@ Hadoop YARN <br />
+&nbsp;@ HDFS <br />
+&nbsp;@ MapReduce <br />
 ]
 
 ### License
