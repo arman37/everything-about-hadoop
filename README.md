@@ -33,14 +33,14 @@ for more click [here](https://www.guru99.com/what-is-big-data.html) [read] or [h
 
 #### Big Data challenges:
 [ <br />
-* Capturing data <br />
-* Curation <br />
-* Storage <br />
-* Searching <br />
-* Sharing <br />
-* Transfer <br />
-* Analysis <br />
-* Presentation <br />
+* Capturing data
+* Curation
+* Storage
+* Searching
+* Sharing
+* Transfer
+* Analysis
+* Presentation
 ]
 
 #### Hadoop Architecture:
@@ -64,6 +64,10 @@ for more click [here](https://www.guru99.com/what-is-big-data.html) [read] or [h
 &nbsp;@ creates multiple replicas of data blocks and distributes them on compute nodes in cluster <br />
 &nbsp;@ MapReduce applications consume data from HDFS <br />
 ]
+
+#### References:
+/> [https://www.tutorialspoint.com/hadoop/index.htm](https://www.tutorialspoint.com/hadoop/index.htm )
+/> [https://www.guru99.com/bigdata-tutorials.html](https://www.guru99.com/bigdata-tutorials.html)
 
 ### License
 
