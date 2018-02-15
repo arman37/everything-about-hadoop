@@ -9,7 +9,7 @@
 ]
 
 #### Quick Intro to Hadoop :
-[
+[ <br />
 &nbsp;@ An open-source data processing framework <br />
 &nbsp;@ written in Java <br />
 &nbsp;@ is used to develop data processing applications which are executed in a distributed computing environment <br />
@@ -18,7 +18,17 @@
 &nbsp;@ such computational logic sent to cluster nodes is nothing but a compiled version of a program written in a high level language such as Java which processes data stored in HDFS <br />
 &nbsp;@ designed to scale up from single servers to thousands of machines, each offering local computation and storage <br />
 &nbsp;@ runs applications using the MapReduce algorithm, where the data is processed in parallel on different CPU nodes <br />
+&nbsp;@  <br />
+]
 
+#### Big Data:
+[ <br />
+&nbsp;@ is also a data but huge in size <br />
+&nbsp;@ refers to a term to describe collection of data that is huge in size and yet growing exponentially with time <br />
+&nbsp;@ such a data that is so large and complex that none of the traditional data management tools are able to store it or process it efficiently <br />
+&nbsp;@ could be found in three forms, such as **Structured**(employee table in a database), **Unstructured**(google search result) and **Semi-structured**(personal data stored in a XML file)<br />
+&nbsp;@ **Volume**, **Variety**, **Velocity**, **Variability** are the characteristics of Big data <br />
+for more click [here](https://www.guru99.com/what-is-big-data.html) [read]
 ]
 
 ### License
