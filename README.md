@@ -23,11 +23,11 @@
 
 #### Big Data:
 [ <br />
-&nbsp;@ is also a data but huge in size <br />
-&nbsp;@ refers to a term to describe collection of data that is huge in size and yet growing exponentially with time <br />
-&nbsp;@ such a data that is so large and complex that none of the traditional data management tools are able to store it or process it efficiently <br />
-&nbsp;@ could be found in three forms, such as **Structured**(employee table in a database), **Unstructured**(google search result) and **Semi-structured**(personal data stored in a XML file)<br />
-&nbsp;@ **Volume**, **Variety**, **Velocity**, **Variability** are the characteristics of Big data <br />
+&nbsp;\> is also a data but huge in size <br />
+&nbsp;\> refers to a term to describe collection of data that is huge in size and yet growing exponentially with time <br />
+&nbsp;\> such a data that is so large and complex that none of the traditional data management tools are able to store it or process it efficiently <br />
+&nbsp;\> could be found in three forms, such as **Structured**(employee table in a database), **Unstructured**(google search result) and **Semi-structured**(personal data stored in a XML file)<br />
+&nbsp;\> **Volume**, **Variety**, **Velocity**, **Variability** are the characteristics of Big data <br />
 for more click [here](https://www.guru99.com/what-is-big-data.html) [read] or [here](https://www.tutorialspoint.com/hadoop/hadoop_big_data_overview.htm) [read] <br />
 ]
 
