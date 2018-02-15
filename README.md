@@ -1,10 +1,10 @@
 # Everything to know about Apache Hadoop
 
 [ <br />
-  @ Open-source
-  @ Data processing framework
-  @ HDFS
-  @ MapReduce
+  @ Open-source <br />
+  @ Data processing framework <br />
+  @ HDFS <br />
+  @ MapReduce <br />
 ]
 
 
